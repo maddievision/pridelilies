@@ -12,6 +12,7 @@ This repo contains vector and PNGs of various pride coloured and ND themed lily 
 |`lesbian_lily`|<img alt="flower dark pink, pink, light pink, dark orange, orange, light orange lesbian pride flag coloured petals and filaments on white center" width=128 src="./png/lesbian_lily.png"/>|
 |`nb_lily`|<img alt="flower with yellow, purple, black non-binary pride flag coloured petals and filaments on white center" width=128 src="./png/nb_lily.png"/>|
 |`pan_lily`|<img alt="flower with pink, yellow, cyan pansexual pride flag coloured petals and filaments on white center" width=128 src="./png/pan_lily.png"/>|
+|`plural_lily`|<img alt="flower with 12 petals coloured across hues of the colour wheel with yellow at the top, pink at the right, blue at the bottom, green to the left, and a white tremblesand in the center" width=128 src="./png/plural_lily.png"/>|
 |`rainbow_lily`|<img alt="flower with red, orange, yellow, green, blue, purple rainbow pride flag coloured petals and filaments on white center" width=128 src="./png/rainbow_lily.png"/>|
 |`trans_lily`|<img alt="flower with pastel blue, pastel pink transgender pride flag coloured petals and filaments on white center" width=128 src="./png/trans_lily.png"/>|
 
